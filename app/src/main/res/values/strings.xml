@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FakeBot</string>
+    <string name="no_msg_text">No messages have been found</string>
+    <string name="sendBtnText">Enviar</string>
+    <string name="msgText">Mensaje</string>
+    <string name="enterText">Introduce un texto</string>
+</resources>
